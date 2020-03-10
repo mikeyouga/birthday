@@ -11,7 +11,6 @@ var config = {
         "今年因为疫情的关系，没有办法和你一起过",
         "不能看着你吹蜡烛",
         "不能看着你许愿",
-        "也不能看着你许愿",
         "也没有办法当面祝福小猪头",
         "所以我给小猪头准备了这个网站",
         "虽然很简陋但这玩意儿我花了好多天",
@@ -50,18 +49,17 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
+        turn_on: "hallo？",
+        play: "音乐！",
+        bannar_coming: "上色！",
+        balloons_flying: "好像少点东西？",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        wish_message: "是不是还少点什么？",
+        story: "呼呼生日快乐！",
     }
 };
