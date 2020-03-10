@@ -43,7 +43,7 @@ var config = {
     /**
  
     imgs: {
-        "心爱的小可爱": "./imgs/huhu.jpg",
+        "心爱的小可爱": "imgs/cool.jpg",
         "我爱你":"./imgs/zhuzhu.jpg"
         "小猪头从今天起就是21岁啦":"./imgs/cool.jpg"
         // "今天是你的生日": "./imgs/birthday.jpg",
