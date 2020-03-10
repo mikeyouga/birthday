@@ -43,9 +43,6 @@ var config = {
     /**
  
     imgs: {
-        "心爱的小可爱": "imgs/cool.jpg",
-        "我爱你":"./imgs/zhuzhu.jpg"
-        "小猪头从今天起就是21岁啦":"./imgs/cool.jpg"
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
